@@ -10,4 +10,8 @@ public class SmartTv {
     public void changeVolume(int level) {
         volume += level;
     }
+
+    public void changeChannel(int channelNumber) {
+        channel = channelNumber;
+    }
 }
