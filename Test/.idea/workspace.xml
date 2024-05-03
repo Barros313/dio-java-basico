@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fea2b9c-cb22-45b0-b9c6-67edc83c06b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SchoolReportCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9fea2b9c-cb22-45b0-b9c6-67edc83c06b2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1714605047896</updated>
       <workItem from="1714605048958" duration="1352000" />
-      <workItem from="1714655658873" duration="4166000" />
+      <workItem from="1714655658873" duration="4743000" />
     </task>
     <servers />
   </component>
