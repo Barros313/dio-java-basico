@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fea2b9c-cb22-45b0-b9c6-67edc83c06b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/candidatura/ProcessoSeletivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9fea2b9c-cb22-45b0-b9c6-67edc83c06b2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +33,7 @@
   }
 }]]></component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -97,7 +93,7 @@
       <workItem from="1714735328744" duration="5431000" />
       <workItem from="1714745100801" duration="5000" />
       <workItem from="1714746374071" duration="29000" />
-      <workItem from="1714772336170" duration="3746000" />
+      <workItem from="1714772336170" duration="4082000" />
     </task>
     <servers />
   </component>
