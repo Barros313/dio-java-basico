@@ -1,21 +1,21 @@
-    /**
-     * <h1> Calculator </h1>
-     * <p>
-     *     This calculator performs mathematical operations between integer numbers
-     * </p>
-     * <b> Note: </b> <p> Read the documentation carefully to benefit from the resources offered by the author </p>
-     * @author Gleyson Sampaio
-     * @version 1.0
-     * @since 01/01/2022
-     */
+import java.util.Scanner;
+
 public class Main {
-        /**
-         * This method is used to sum two integer numbers
-         * @param firstNumber is the first parameter
-         * @param secondNumber is the second parameter
-         * @return int this method results in the sum of two integers
-         */
-        public int sumNumbers(int firstNumber, int secondNumber) {
-            return firstNumber + secondNumber;
+    public static void main(String[] args) {
+        CepFormat cep = new CepFormat();
+        Scanner scan = new Scanner(System.in);
+
+        System.out.print("Digite seu CEP: ");
+        String defaultCep = scan.nextLine();
+
+        String formattedCep;
+        try {
+            formattedCep = cep.formatCep(defaultCep);
+        } catch (InvalidCepException e) {
+            System.err.println("Formato de CEP inválido.");
+            return;
         }
+
+        System.out.println("CEP formatado: " + formattedCep);
+    }
 }
