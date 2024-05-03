@@ -27,6 +27,5 @@ public class ExampleTryCatch {
             System.err.println("O campo altura precisa ser numérico no formato americano");
             return;
         }
-
     }
 }

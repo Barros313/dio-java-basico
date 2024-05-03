@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fea2b9c-cb22-45b0-b9c6-67edc83c06b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CepFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExampleFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExampleTryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InvalidCepException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,23 +88,12 @@
       <updated>1714605047896</updated>
       <workItem from="1714605048958" duration="1352000" />
       <workItem from="1714655658873" duration="4743000" />
-      <workItem from="1714735328744" duration="3609000" />
+      <workItem from="1714735328744" duration="5365000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
