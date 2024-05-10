@@ -1,0 +1,362 @@
+Index: .idea/uiDesigner.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/uiDesigner.xml b/.idea/uiDesigner.xml
+new file mode 100644
+--- /dev/null	(date 1715345311621)
++++ b/.idea/uiDesigner.xml	(date 1715345311621)
+@@ -0,0 +1,124 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Palette2">
++    <group name="Swing">
++      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
++      </item>
++      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.svg" removable="false" auto-create-binding="false" can-attach-label="true">
++        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
++        <initial-values>
++          <property name="text" value="Button" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="RadioButton" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="CheckBox" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="Label" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.svg" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
++          <preferred-size width="-1" height="20" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
++      </item>
++    </group>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"9fea2b9c-cb22-45b0-b9c6-67edc83c06b2\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/Tax.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Test.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/CepFormat.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/ExampleFor.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/ExampleTryCatch.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/InvalidCepException.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Main.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/SchoolReportCard.java\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Barros313&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Barros313/dio-java-basico.git&quot;,\r\n    &quot;accountId&quot;: &quot;06dbee47-7cbd-4b91-b85f-58fe01089000&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 8\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2ft0Pr68TZ0vSckCWm3Z2wfrRC9\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.ExampleFor.executor\": \"Run\",\r\n    \"Application.ExampleTryCatch.executor\": \"Run\",\r\n    \"Application.Main.executor\": \"Debug\",\r\n    \"Application.SchoolReportCard.executor\": \"Run\",\r\n    \"Application.Tax.executor\": \"Run\",\r\n    \"Application.Test.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/armaz/IdeaProjects/dio-java-basico/Test\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"proofread\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunAnythingCache\">\r\n    <option name=\"myCommands\">\r\n      <command value=\"Wrap\" />\r\n    </option>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150\" />\r\n        <option value=\"bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"9fea2b9c-cb22-45b0-b9c6-67edc83c06b2\" name=\"Changes\" comment=\"\" />\r\n      <created>1714605047896</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1714605047896</updated>\r\n      <workItem from=\"1714605048958\" duration=\"1352000\" />\r\n      <workItem from=\"1714655658873\" duration=\"4743000\" />\r\n      <workItem from=\"1714735328744\" duration=\"5431000\" />\r\n      <workItem from=\"1714745100801\" duration=\"5000\" />\r\n      <workItem from=\"1714746374071\" duration=\"29000\" />\r\n      <workItem from=\"1715257963444\" duration=\"1174000\" />\r\n      <workItem from=\"1715343716854\" duration=\"1029000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision be5c5b1f917f0e9ba4c6ffe5541d17cb7dba8f6a)
++++ b/.idea/workspace.xml	(date 1715346940323)
+@@ -4,113 +4,38 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="9fea2b9c-cb22-45b0-b9c6-67edc83c06b2" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/src/Tax.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
++    <list default="true" id="037a8793-d253-4e90-ad39-dc3efb449a90" name="Changes" comment="">
++      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/candidatura/ProcessoSeletivo.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/CepFormat.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/ExampleFor.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/ExampleTryCatch.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/InvalidCepException.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/SchoolReportCard.java" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Class" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+-  </component>
+-  <component name="GitHubPullRequestSearchHistory">{
+-  &quot;lastFilter&quot;: {
+-    &quot;state&quot;: &quot;OPEN&quot;,
+-    &quot;assignee&quot;: &quot;Barros313&quot;
+-  }
+-}</component>
+-  <component name="GithubPullRequestsUISettings">{
+-  &quot;selectedUrlAndAccountId&quot;: {
+-    &quot;url&quot;: &quot;https://github.com/Barros313/dio-java-basico.git&quot;,
+-    &quot;accountId&quot;: &quot;06dbee47-7cbd-4b91-b85f-58fe01089000&quot;
+-  }
+-}</component>
+-  <component name="ProjectColorInfo">{
+-  &quot;associatedIndex&quot;: 8
+-}</component>
+-  <component name="ProjectId" id="2ft0Pr68TZ0vSckCWm3Z2wfrRC9" />
+   <component name="ProjectLevelVcsManager">
+     <ConfirmationsSetting value="2" id="Add" />
+-  </component>
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
+-    "Application.ExampleFor.executor": "Run",
+-    "Application.ExampleTryCatch.executor": "Run",
+-    "Application.Main.executor": "Debug",
+-    "Application.SchoolReportCard.executor": "Run",
+-    "Application.Tax.executor": "Run",
+-    "Application.Test.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "main",
+-    "ignore.virus.scanning.warn.message": "true",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "C:/Users/armaz/IdeaProjects/dio-java-basico/Test",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "proofread",
+-    "vue.rearranger.settings.migration": "true"
++    "git-widget-placeholder": "Merging main",
++    "node.js.selected.package.tslint": "(autodetect)"
+   }
+ }]]></component>
+-  <component name="RunAnythingCache">
+-    <option name="myCommands">
+-      <command value="Wrap" />
+-    </option>
+-  </component>
+-  <component name="SharedIndexes">
+-    <attachedChunks>
+-      <set>
+-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+-      </set>
+-    </attachedChunks>
+-  </component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="9fea2b9c-cb22-45b0-b9c6-67edc83c06b2" name="Changes" comment="" />
+-      <created>1714605047896</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1714605047896</updated>
+-      <workItem from="1714605048958" duration="1352000" />
+-      <workItem from="1714655658873" duration="4743000" />
+-      <workItem from="1714735328744" duration="5431000" />
+-      <workItem from="1714745100801" duration="5000" />
+-      <workItem from="1714746374071" duration="29000" />
+-      <workItem from="1715257963444" duration="1174000" />
+-      <workItem from="1715343716854" duration="1029000" />
+-    </task>
+     <servers />
+   </component>
+-  <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="3" />
+-  </component>
+-  <component name="XSLT-Support.FileAssociations.UIState">
+-    <expand />
+-    <select />
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+ </project>
+\ No newline at end of file
+Index: src/candidatura/ProcessoSeletivo.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/candidatura/ProcessoSeletivo.java b/src/candidatura/ProcessoSeletivo.java
+new file mode 100644
+--- /dev/null	(date 1715345311622)
++++ b/src/candidatura/ProcessoSeletivo.java	(date 1715345311622)
+@@ -0,0 +1,58 @@
++package candidatura;
++
++import java.util.concurrent.ThreadLocalRandom;
++
++public class ProcessoSeletivo {
++    static final double baseSalary = 2000;
++    static final String[] candidates = {"FELIPE","MÁRCIA","JULIA","PAULO","AUGUSTO","MÔNICA","FABRÍCIO","MIRELA","DANIELA","JORGE"};
++
++    public static void main(String[] args) {
++        printSelected();
++    }
++
++    static void printSelected() {
++        System.out.println("Imprimindo a lista de candidatos informando o índice do elemento");
++
++        for (int i = 0; i < candidates.length; i++) {
++            System.out.println("O candidato de número " + (i + 1) + " é o " + candidates[i]);
++        }
++
++        return;
++    }
++
++    static void selectCandidates () {
++
++        int selectedCandidates = 0;
++        int currentCandidate = 0;
++
++        while (selectedCandidates < 5 && currentCandidate < candidates.length) {
++            String candidate = candidates[currentCandidate];
++            double intendedSalary = intendedValue();
++
++            System.out.println("O candidato " + candidate + " requested this salary: " + intendedSalary);
++
++            if (baseSalary >= intendedSalary) {
++                System.out.println(candidate + " was selected");
++                selectedCandidates++;
++            }
++
++            currentCandidate++;
++        }
++    }
++
++    static double intendedValue() {
++        return ThreadLocalRandom.current().nextDouble(1800, 2200);
++    }
++
++    static void analyzeCandidate (double intendedSalary) {
++
++        if (baseSalary > intendedSalary) {
++            System.out.println("Ligar para o candidato");
++        } else if (baseSalary == intendedSalary) {
++            System.out.println("Aguardando resultado dos demais candidatos");
++        } else {
++            System.out.println("Ligar para o candidato com contra proposta");
++        }
++
++    }
++}
+Index: ../.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"VcsDirectoryMappings\">\r\n    <mapping directory=\"\" vcs=\"Git\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../.idea/vcs.xml b/../.idea/vcs.xml
+--- a/../.idea/vcs.xml	(revision be5c5b1f917f0e9ba4c6ffe5541d17cb7dba8f6a)
++++ b/../.idea/vcs.xml	(date 1715345311620)
+@@ -2,5 +2,6 @@
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+     <mapping directory="" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$/dio-conta-bancaria" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
